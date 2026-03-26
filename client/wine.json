@@ -1,0 +1,222 @@
+{
+  "wines": [
+    {
+      "producer": "Bravery",
+      "grape": "Pinot Gris",
+      "country": "U.S.",
+      "region": "New York",
+      "vintage": 2024,
+      "price": 26,
+      "alcohol_by_volume": 13.4
+    },
+    {
+      "producer": "Hugel Classic",
+      "grape": "Pinot Gris",
+      "country": "France",
+      "region": "Alsace",
+      "vintage": 2023,
+      "price_range": "20-25",
+      "alcohol_by_volume": 13,
+      "notes": "Major French producer since 1639; Old World Pinot Gris/Pinot Grigio; known for tradition and innovation since 1877"
+    },
+    {
+      "producer": "Ruffino Modus",
+      "grapes": ["Sangiovese", "Merlot", "Cabernet Sauvignon"],
+      "country": "Italy",
+      "region": "Tuscany",
+      "vintage": 2021,
+      "price": 26,
+      "alcohol_by_volume": 15
+    },
+    {
+      "producer": "Ferrari-Carano Siena",
+      "grapes": ["Sangiovese", "Malbec", "Petite Sirah", "Cabernet Sauvignon"],
+      "country": "U.S.",
+      "region": "Sonoma County, CA",
+      "vintage": 2022,
+      "price": 24,
+      "alcohol_by_volume": 14.8
+    },
+    {
+      "producer": "Mulderbosch",
+      "grape": "Sauvignon Blanc",
+      "country": "South Africa",
+      "region": "Stellenbosch",
+      "vintage": 2023,
+      "price": 13,
+      "alcohol_by_volume": 13
+    },
+    {
+      "producer": "Schmitt-Sohne Relax",
+      "grape": "Riesling",
+      "country": "Germany",
+      "region": "Mosel",
+      "vintage": 2023,
+      "price": 10,
+      "alcohol_by_volume": 9
+    },
+    {
+      "producer": "Toasted Head",
+      "grape": "Chardonnay",
+      "country": "U.S.",
+      "region": "California",
+      "vintage": 2022,
+      "price": 9,
+      "alcohol_by_volume": 13.5
+    },
+    {
+      "producer": "Louis Latour Valmoissine",
+      "grape": "Pinot Noir",
+      "country": "France",
+      "region": "IGP Pays d'Oc",
+      "vintage": 2022,
+      "price": 18,
+      "alcohol_by_volume": 12.5
+    },
+    {
+      "producer": "Rodney Strong",
+      "grape": "Merlot",
+      "country": "U.S.",
+      "region": "Sonoma County, CA",
+      "vintage": 2022,
+      "price": 16,
+      "alcohol_by_volume": 14.5
+    },
+    {
+      "producer": "Rodney Strong",
+      "grape": "Cabernet Sauvignon",
+      "country": "U.S.",
+      "region": "Sonoma County, CA",
+      "vintage": 2021,
+      "price": 17,
+      "alcohol_by_volume": 14.5
+    },
+    {
+      "producer": "Weingut Brundlmayer Terrassen",
+      "grape": "Riesling",
+      "country": "Austria",
+      "region": "Kamptal",
+      "vintage": 2023,
+      "price": 30,
+      "alcohol_by_volume": 13
+    },
+    {
+      "producer": "Trimbach",
+      "grape": "Riesling",
+      "country": "France",
+      "region": "Alsace",
+      "vintage": 2021,
+      "price": 16,
+      "alcohol_by_volume": 12.5
+    },
+    {
+      "producer": "Dr. Loosen Kabinett",
+      "grape": "Riesling",
+      "country": "Germany",
+      "region": "Ürziger Würzgarten, Mosel",
+      "vintage": 2022,
+      "price": 28,
+      "alcohol_by_volume": 8,
+      "residual_sugar": 4.1
+    },
+    {
+      "producer": "Dr. Loosen Spätlese",
+      "grape": "Riesling",
+      "country": "Germany",
+      "region": "Ürziger Würzgarten, Mosel",
+      "vintage": 2022,
+      "price": 32,
+      "alcohol_by_volume": 8,
+      "residual_sugar": 6.7
+    },
+    {
+      "producer": "Dr. Frank Dry",
+      "grape": "Riesling",
+      "country": "U.S.",
+      "region": "Finger Lakes, NY",
+      "vintage": 2023,
+      "price": 16,
+      "alcohol_by_volume": 12
+    },
+    {
+      "producer": "Chateau Ste. Michelle",
+      "grape": "Riesling",
+      "country": "U.S.",
+      "region": "Columbia Valley, WA",
+      "vintage": 2022,
+      "price": 10,
+      "alcohol_by_volume": 12
+    },
+    {
+      "producer": "Casal Garcia",
+      "grapes": ["Trajadura", "Loureiro", "Arinto", "Fernão Pires"],
+      "country": "Portugal",
+      "region": "Vinho Verde",
+      "vintage": "NV",
+      "price": 8,
+      "alcohol_by_volume": 9.5
+    },
+    {
+      "producer": "Graham’s 6 Grapes Reserve Porto",
+      "grape": "Blend",
+      "country": "Portugal",
+      "region": "Douro Valley",
+      "vintage": "NV",
+      "price": 26,
+      "alcohol_by_volume": 19.5
+    },
+    {
+      "producer": "Wiston Estates South Downs Brut",
+      "grapes": ["Chardonnay", "Pinot Noir", "Pinot Meunier"],
+      "country": "England",
+      "vintage": "NV",
+      "price": 40,
+      "alcohol_by_volume": 12
+    },
+    {
+      "producer": "Disznókő Dry Furmint",
+      "grape": "Furmint",
+      "country": "Hungary",
+      "region": "Tokaji",
+      "vintage": 2024,
+      "price": 21,
+      "alcohol_by_volume": 13
+    },
+    {
+      "producer": "Bodega Garzon Reserva",
+      "grape": "Albarino",
+      "country": "Uruguay",
+      "region": "Maldonado",
+      "vintage": 2024,
+      "price": 15.5,
+      "alcohol_by_volume": 12.5
+    },
+    {
+      "producer": "Dominio de las Abejas Nectar de Campo Ojos Negros",
+      "grapes": ["Grenache", "Nero d'Avola"],
+      "country": "Mexico",
+      "region": "Baja California",
+      "vintage": 2023,
+      "price": 32,
+      "alcohol_by_volume": 13
+    },
+    {
+      "producer": "Grgić Vina",
+      "grape": "Plavac Mali",
+      "country": "Croatia",
+      "region": "Dalmatia",
+      "vintage": 2018,
+      "price": 60,
+      "alcohol_by_volume": 15.8
+    },
+    {
+      "producer": "Petit Guiraud",
+      "grapes": ["Semillon", "Sauvignon Blanc"],
+      "country": "France",
+      "region": "Sauternes",
+      "vintage": 2020,
+      "price": 30,
+      "alcohol_by_volume": 13
+    }
+  ]
+}
